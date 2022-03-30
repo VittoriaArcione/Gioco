@@ -6,20 +6,20 @@ Bisogna prendere 10 monete senza essere colpiti dagli ostacoli
 
 ## Traiettorie degli ostacoli
 
-ogni tre secondi tre ostacoli si muoveranno verso il personaggio (da destra verso sinistra) seguendo traiettorie rettilinee e paraboliche casuali alternandosi(ex. al secondo 3 seguiranno traiettorie rettilinee, al secondo 6 seguiranno traiettorie paraboliche etc...)
+Ogni tre secondi tre ostacoli si muoveranno verso il personaggio (da destra verso sinistra) seguendo traiettorie rettilinee e paraboliche casuali alternandosi(ex. al secondo 3 seguiranno traiettorie rettilinee, al secondo 6 seguiranno traiettorie paraboliche etc...)
 
 ## Svolgimento
 
-un personaggio su un aeroplano deve raccogliere monete durante il tragitto evitando gli ostacoli che si muovono contro di lui.
+Un personaggio su un aeroplano deve raccogliere monete durante il tragitto evitando gli ostacoli che si muovono verso di lui in modo imprevedibile.
 
 ## Comandi
 
-tasti direzionali (freccette) per muovere il personaggio
+Tasti direzionali (freccette) per muovere il personaggio.
 
 ## funzionamento blocchi: 
-blocco 1: vengono disegnati sfondo, personaggio, timer contatore e in alto a destra dello schermo, la prima moneta (in una posizione casuale dello schermo)
+blocco 1: vengono disegnati sfondo, personaggio, timer econtatore in alto a destra dello schermo, la prima moneta (in una posizione casuale dello schermo)
 
-blocco 2: viene richiesto il segnale per far partire il gioco
+blocco 2: viene richiesto il segnale per far partire il gioco (bisogna premere il tasto 'invio')
 
 blocco 3: ogni cinque secondi vengono disegnate sullo schermo tre monete in posizioni casuali
 
@@ -31,7 +31,7 @@ blocco 5: la posizione del personaggio coincide con uno dei punti appartenenti d
 
 blocco 6: la posizione di una moneta e la posizione del personaggio coincidono?
 
-blocco 7: lo schermo viene aggiornato, ciò significa che quando il personaggio incontra la moneta quest'ultima verrà cancellata 
+blocco 7: lo schermo viene aggiornato, ciò significa che quando il personaggio incontra la moneta quest'ultima non sarà più visibile
 
 blocco 8: il valore del contatore viene incrementato di +1
 
