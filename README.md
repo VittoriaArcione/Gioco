@@ -33,6 +33,8 @@ blocco 6: la posizione di una moneta e la posizione del personaggio coincidono?
 
 blocco 7: lo schermo viene aggiornato, ciò significa che quando il personaggio incontra la moneta quest'ultima non sarà più visibile
 
+![diagramma di flusso 3](https://user-images.githubusercontent.com/73583881/160933027-dc0ed9df-0c72-4576-a744-725e1e889bed.jpg)
+
 blocco 8: il valore del contatore viene incrementato di +1
 
 blocco 9: se il contatore raggiunge il valore 10, il gioco termina con esito positivo
