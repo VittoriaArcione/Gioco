@@ -20,7 +20,7 @@ Tasti direzionali (freccette) per muovere il personaggio.
 
 ![diagramma di flusso 3](https://user-images.githubusercontent.com/73583881/160933027-dc0ed9df-0c72-4576-a744-725e1e889bed.jpg)
 
-## Funzionamento blocchi: 
+## Funzionamento blocchi
 blocco 1: vengono disegnati sfondo, personaggio, timer econtatore in alto a destra dello schermo, la prima moneta (in una posizione casuale dello schermo)
 
 blocco 2: viene richiesto il segnale per far partire il gioco (bisogna premere il tasto 'invio')
